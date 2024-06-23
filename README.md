@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayt256&layout=compact)
+![Top Langs](https://github-readme-stats-phi-three-68.vercel.app/api/top-langs/?username=kayt256&layout=compact)
 <!--
 **KayT256/KayT256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
