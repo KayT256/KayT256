@@ -4,4 +4,4 @@
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/trieu-khang-trat/)
 
-![Top Langs](https://github-readme-stats-steel-three-54.vercel.app/api/top-langs/?username=kayt256&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-steel-three-54.vercel.app/api/top-langs/?username=kayt256&layout=compact&theme=radical)
