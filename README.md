@@ -1,5 +1,3 @@
-![KayT's GitHub stats](https://github-readme-stats-steel-three-54.vercel.app/api?username=kayt256&hide=contribs,prs&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats-steel-three-54.vercel.app/api/top-langs/?username=kayt256&layout=compact&theme=tokyonight)
 <!--
 **KayT256/KayT256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
