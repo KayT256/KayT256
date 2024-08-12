@@ -1,6 +1,8 @@
 - 🎓 Student at Rhodes College. Class of 2028.
 - 🔭 I’m currently working on Life Prep's Esports website and Pho Saigon restaurant website.
 - 🌱 I’m currently learning Data Science with Python.
+- 🎮 Sub GitHub account:
+  - Game Development: [KayT-2am](https://www.github.com/KayT-2am)
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/trieu-khang-trat/)
  
