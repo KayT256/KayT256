@@ -5,7 +5,7 @@
   - Game Development: [KayT-2am](https://www.github.com/KayT-2am)
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/trieu-khang-trat/)
-- Websites I have made:
+- 👨‍💻 Websites I have made:
   - [Life Prep Academy Esports](https://www.lifeprep-esports.com/)
   - [Pho Saigon Covington](https://www.phosaigoncovington.com/)
  
