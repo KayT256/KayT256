@@ -1,4 +1,5 @@
 - 🎓 Student at Rhodes College. Class of 2028.
+- 🔭 I LOVE Computer Science. Fields that I am knowledgeable in: Web Development, Game Development, Data Science.
 - 🌱 I’m currently stepping into Cybersecurity.
 - 🎮 Sub GitHub account:
   - Game Development: [KayT-2am](https://www.github.com/KayT-2am)
