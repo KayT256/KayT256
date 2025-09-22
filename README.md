@@ -1,7 +1,7 @@
 - 🎓 Student at Rhodes College. Class of 2028.
-- 🔭 I LOVE Computer Science. Fields that I am knowledgeable in: Web Development, Game Development, Data Science, Web3, and some in Cyber Security.
-- 🌱 I’m currently focusing on Web3.
+- 🔭 I LOVE Computer Science. Fields that I am knowledgeable in: `Web Development`, `Game Development`, `Data Science`, `Web3`, and some in `Cyber Security`.
 - 📫 How to reach me:
+  - [X - @iamtkhangg](https://x.com/iamtkhangg)
   - [Linkedin](https://www.linkedin.com/in/trieu-khang-trat/)
 - 👨‍💻 Websites I worked on:
   - [Klana Tech](https://www.klanatech.com/)
