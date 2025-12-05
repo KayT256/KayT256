@@ -4,8 +4,6 @@
   - [X - @iamtkhangg](https://x.com/iamtkhangg)
   - [Linkedin](https://www.linkedin.com/in/trieu-khang-trat/)
 - 👨‍💻 Websites I worked on:
-  - [Klana Tech](https://www.klanatech.com/)
-  - [InvestiLand](https://www.investiland.com/)
   - [Life Prep Academy Esports](https://www.lifeprep-esports.com/)
   - [Pho Saigon Covington](https://www.phosaigoncovington.com/)
  
