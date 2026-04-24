@@ -3,6 +3,7 @@
 - 📫 How to reach me:
   - [X - @iamtkhangg](https://x.com/iamtkhangg)
   - [Linkedin](https://www.linkedin.com/in/trieu-khang-trat/)
+- 💼 My portfolio: [Trieu Khang Trat - Magic Programmer](https://www.trieukhangtrat.com/)
 - 👨‍💻 Websites I worked on:
   - [Life Prep Academy Esports](https://www.lifeprep-esports.com/)
   - [Pho Saigon Covington](https://www.phosaigoncovington.com/)
